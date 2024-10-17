@@ -1,2 +1,2 @@
-console.log("Hello git");
-console.log("Javascript code here");
+console.log("Hello git, This is Rashid Ameer");
+console.log("I am learning you today");
